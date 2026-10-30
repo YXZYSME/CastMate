@@ -6,15 +6,15 @@
 
 ## Initial baseline
 
-The CastMate repository was initialized on 29 October 2026 (America/Chicago) for this project. Its first planned commit contains planning documents, repository guidance, and licensing only. No product implementation, dependency package, model weights, or dataset was copied into that baseline.
+The CastMate repository was initialized on 29 October 2026 (America/Chicago) for this project. Its first commit contains planning documents, repository guidance, and licensing only. No product implementation, dependency package, model weights, or dataset was copied into that baseline.
 
-The baseline commit hash will be recorded after the commit exists. Its date establishes the recorded Git event, not independent proof of when every underlying idea originated.
+The documentation baseline is [1df137db696c23cf90887df62ac7e972e48fcff0](https://github.com/YXZYSME/CastMate/commit/1df137db696c23cf90887df62ac7e972e48fcff0). Its date establishes the recorded Git event, not independent proof of when every underlying idea originated.
 
 ## Contribution ledger
 
 | Contribution | Status | Revision / evidence | Upstream boundary |
 | --- | --- | --- | --- |
-| Initial project direction and repository organization | Documentation prepared | Initial commit pending | Original synthesis; research cited separately |
+| Initial project direction and repository organization | Committed and published | 1df137db696c23cf90887df62ac7e972e48fcff0 | Original synthesis; research cited separately |
 | Seeded harness generation | Proposed | No implementation | To be recorded |
 | Curation and evaluation | Proposed | No results | To be recorded |
 | Approval-hook enforcement | Required design constraint | No implementation | To be recorded |
