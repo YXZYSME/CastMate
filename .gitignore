@@ -1,0 +1,32 @@
+# YXZYS | saeng-il ai [systems] — © YXZYS @ saengil.ai
+# Private instance state and local review records
+/.castmate/
+/.regulator/
+/private/
+/secrets/
+/data/private/
+/artifacts/raw/
+.env
+.env.*
+!.env.example
+!.env.*.example
+*.key
+*.p12
+*.pfx
+# Local environments and build products
+.DS_Store
+.venv/
+venv/
+node_modules/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+dist/
+build/
+coverage/
+# Reviewed synthetic examples belong in examples/; do not put real seeds there.
