@@ -4,14 +4,14 @@
 
 # Contributing to CastMate
 
-The repository currently contains planning documents. Discuss a change to the selected direction before adding product code or a dependency.
+CastMate is in the design stage. Follow the current authorized task and keep changes focused.
 
-For an idea, summarize the problem, proposed mechanism, relevant prior work, and an experiment that could disprove it. Keep raw brainstorming elsewhere; add a concise entry to [ITERATIONS.md](docs/research/ITERATIONS.md) when the direction changes.
+Use public issues for concrete work items and pull requests for reviewable changes. Maintainer brainstorming, research, draft plans, and internal reviews belong in the ignored agentic/ workspace. Do not attach those files to issues or pull requests.
 
-For an accepted design decision, add a numbered record under docs/decisions/ with status, context, decision, consequences, and the superseded record if any. Use GitHub Issues for concrete work items and pull requests for reviewable changes. Public issues are not a place for secrets or private conversations.
+Public documentation should explain the implemented system, its setup, limitations, model use, and evidence. A clean clone must not require private planning notes or credentials embedded in source.
 
-Each pull request should identify the changed behavior or document, supporting checks, uncertainty, and any model, data, dependency, or license change. Update [PROVENANCE.md](docs/hackathon/PROVENANCE.md) when incorporating upstream work or completing an event contribution.
+Each pull request should explain the change, relevant checks, remaining uncertainty, and any model, data, dependency, permission, or license impact. Update [PROVENANCE.md](docs/PROVENANCE.md) for completed event contributions and upstream reuse, and [MODEL-USAGE.md](docs/MODEL-USAGE.md) for inference changes.
 
-Only submit material you have the right to contribute under this repository's Apache-2.0 license. Record third-party material and preserve its notices. Do not upload model weights or datasets until their specific rights and distribution terms have been reviewed.
+Only contribute material you have the right to contribute under Apache-2.0. Preserve third-party licenses and notices. Review the distribution terms before adding model weights, datasets, or assets.
 
-Do not include credentials, real private seeds, user memories, private Discord material, raw transcripts, or local machine paths in public evidence. Sanitized evidence must still accurately represent what was tested.
+Do not publish credentials, real private seeds, user memory, raw conversations, or internal working files. Use labeled synthetic fixtures for public examples. Review staged changes rather than assuming ignore rules establish privacy.

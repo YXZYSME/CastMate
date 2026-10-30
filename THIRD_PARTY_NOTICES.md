@@ -4,14 +4,14 @@
 
 # Third-party notices
 
-The initial CastMate repository contains original planning documents and no application dependencies, vendored source, model weights, or datasets.
+The current repository has no application dependencies, vendored source, model weights, or datasets.
 
-Research cited in [ITERATIONS.md](docs/research/ITERATIONS.md) is reference material, not incorporated implementation. Citation does not grant permission to copy an implementation or its data.
+Before incorporating third-party material, record its exact version or commit, source, license or terms, required notices, and role in the product.
 
-Before adding third-party material, record:
-
-| Component | Exact version or commit | Source | License / terms | Required notices | How used |
+| Component | Version / commit | Source | License / terms | Required notices | Use |
 | --- | --- | --- | --- | --- | --- |
-| None incorporated at initialization | — | — | — | — | Documentation-only baseline |
+| None incorporated | — | — | — | — | Design-stage repository |
 
-Meta model licenses and hosted API terms are separate from CastMate's Apache-2.0 license. Preserve their required notices when a model and delivery route are selected.
+Citing research does not grant permission to reuse an implementation or dataset.
+
+Meta model licenses and hosted API terms are separate from CastMate's Apache-2.0 license. Preserve their notices when a model and delivery route are selected.

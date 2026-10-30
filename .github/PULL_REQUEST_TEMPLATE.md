@@ -4,16 +4,16 @@
 
 ## Change
 
-What problem or decision does this address? Link the relevant design record.
+What user-facing behavior, implementation, or public documentation changed?
 
 ## Evidence
 
 What was checked, against which revision, and what remains unverified?
 
-## Provenance and runtime impact
+## Model use and provenance
 
-Identify any upstream code, data, model call, permission, dependency, or license change. Update the relevant hackathon records.
+Identify any model call, permission, upstream code, data, dependency, or license change. Update the public model and contribution records where relevant.
 
 ## Publication review
 
-Confirm that the diff contains no credentials, private seeds, user memory, or unredacted private conversations. Describe any scope that was not reviewed.
+Confirm the diff and attachments contain no private agentic/ working files, credentials, real private seeds, user memory, or raw conversations. Describe any scope not reviewed.
